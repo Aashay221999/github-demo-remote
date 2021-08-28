@@ -1,18 +1,11 @@
-#Add Implementation
 def add(x,y):
-	return x+y
+	pass
 
-#Sub Implementation
 def subtract(x,y):
-	return x-y #Master
+	pass
 
-#Mul Implementation
 def multiply(x,y):
-	return x*y #Bug456
+	pass
 
-#Div Implementation
 def divide(x,y):
-	return x/y #Bug789
-
-def square(x):
 	pass
